@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: Daniele Trapani
+description: Full-Stack Web Developer
+email: daniele.trapani@outlook.it
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -19,9 +19,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  description: 'Daniele Trapani is a programmer and a full-stack web developer from Palermo.'
+  rel-author: 'https://plus.google.com/+DanieleTrapani'
+  rel-publisher: 'https://plus.google.com/+DanieleTrapani'
 
 #-------------------------------
 # About Section
@@ -29,21 +29,18 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com),
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson)
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners) about making codes happen.
+  **Daniele specializes in solving problems** for humans.
+  Most of the things he makes are web applications,
+  but he also puts effort into crafting [videos](https://youtube.com/dhtfilm).
 
 
 skills:
 - {name: Communication, value: '9'}
 - {name: Organization, value: '7'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
 - {name: Planning, value: '7'}
 - {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: Programming, value: '9'}
 
 #-------------------------------
 # Work Section
@@ -91,11 +88,12 @@ clients:
 # Contact Section
   
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'twitter', link: 'https://twitter.com/danitrap'}
+- {icon: 'youtube', link: 'https://www.youtube.com/misakorn'}
+- {icon: 'linkedin', link: 'https://it.linkedin.com/pub/daniele-trapani/80/18/18b/'}
+- {icon: 'facebook', link: 'https://www.facebook.com/daniele.trapani/'}
+- {icon: 'github', link: 'http://www.github.com/danitrap'}
+
 
   
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
