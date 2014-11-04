@@ -1,12 +1,8 @@
 ---
-title: Typo International Design Talks Stuff
+title: Medium Inspired Design
 ---
 
-![Typo International](assets/img/work/proj-1/img1.jpg)
+I designed this website in Photoshop and later converted it in HTML5, CSS3 for training purposes.
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+![Medium Inspired Design](assets/img/work/proj-1/1.png)
 
-![Typo International](assets/img/work/proj-1/img2.jpg)
-![Typo International](assets/img/work/proj-1/img3.jpg)
-![Typo International](assets/img/work/proj-1/img4.jpg)
-![Typo International](assets/img/work/proj-1/img5.jpg)
